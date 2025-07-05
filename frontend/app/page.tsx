@@ -1,3 +1,5 @@
+import { get } from "@/server/users";
+
 export default function Home() {
   return (
     <>
