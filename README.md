@@ -62,3 +62,6 @@ Make sure the API base URL is configured correctly in your frontend .env or API 
 Base URL: http://localhost:8000/api
 
 [Optional] Include list of available endpoints or link to Postman collection / API docs.
+
+🧪 Testing
+Laravel API:
