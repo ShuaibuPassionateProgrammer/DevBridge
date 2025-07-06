@@ -57,3 +57,8 @@ npm install
 npm run dev
 ```
 Make sure the API base URL is configured correctly in your frontend .env or API config.
+
+🌐 API Configuration
+Base URL: http://localhost:8000/api
+
+[Optional] Include list of available endpoints or link to Postman collection / API docs.
