@@ -68,3 +68,7 @@ Laravel API:
 ```bash
 php artisan test
 ```
+### Next.js Frontend:
+```bash
+npm run test
+```
