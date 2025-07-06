@@ -25,3 +25,28 @@ devbridge/
 │ ├── components/
 │ └── ...
 
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- PHP 8.2+
+- Composer
+- Node.js 18+
+- npm or yarn
+- MySQL / PostgreSQL (or preferred database)
+
+---
+
+### Backend (Laravel API)
+
+```bash
+cd api
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+```
