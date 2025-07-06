@@ -15,3 +15,13 @@
 
 ## 📁 Project Structure
 
+devbridge/
+├── api/ # Laravel 12 backend (API only)
+│ ├── app/
+│ ├── routes/
+│ └── ...
+├── frontend/ # Next.js frontend (UI)
+│ ├── pages/
+│ ├── components/
+│ └── ...
+
