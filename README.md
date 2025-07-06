@@ -72,7 +72,3 @@ php artisan test
 ```bash
 npm run test
 ```
-### 🛠️ Customization
-Want to switch to JWT or Sanctum for auth? Easily plug in your preferred strategy.
-
-Swap out the frontend for another React-based framework if needed — API stays the same.
