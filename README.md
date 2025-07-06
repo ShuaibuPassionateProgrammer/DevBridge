@@ -51,3 +51,8 @@ php artisan migrate
 php artisan serve
 ```
 ### Frontend (Next.js)
+```bash
+cd frontend
+npm install
+npm run dev
+```
