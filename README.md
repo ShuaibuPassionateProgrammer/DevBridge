@@ -65,3 +65,6 @@ Base URL: http://localhost:8000/api
 
 🧪 Testing
 Laravel API:
+```bash
+php artisan test
+```
