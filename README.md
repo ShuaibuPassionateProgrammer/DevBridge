@@ -56,3 +56,4 @@ cd frontend
 npm install
 npm run dev
 ```
+Make sure the API base URL is configured correctly in your frontend .env or API config.
